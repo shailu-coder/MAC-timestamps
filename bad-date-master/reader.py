@@ -1,7 +1,7 @@
 """
 file: reader.py
 language: python3
-author: Jacob Brown
+author: shailendra singh
 description: Detect files that have been potentially timestomped by flagging files that have a more recent
   modify timestamp than change timestamp. This is because whenever you modify the contents of a file, you increase
   it's size and therefore modify the change timestamp as well.
